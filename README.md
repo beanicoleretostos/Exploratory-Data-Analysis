@@ -1,4 +1,4 @@
-![Screenshot 2024-11-08 at 11 17 28 PM](https://github.com/user-attachments/assets/25e8d8e6-7729-4cb8-b558-1b3e66428cb6)# Exploratory Data Analysis
+# Exploratory Data Analysis
 of Spotify Songs on year 2023
 
 ### **Introduction**
