@@ -1,5 +1,4 @@
-# Exploratory Data Analysis
-of Spotify Songs on year 2023
+# Exploratory Data Analysisn of Spotify Songs on year 2023
 
 ### **Introduction**
 
